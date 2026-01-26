@@ -1,9 +1,9 @@
 # Admin-Dashboard
-#Introduction
+# Introduction
 
 A modern and responsive Admin Dashboard built using HTML, CSS Grid, and JavaScript. This project demonstrates how to design a clean UI layout and implement interactive features for administrative tasks.
 
-#Features
+# Features
 
 -Responsive dashboard layout using CSS Grid
 
@@ -19,11 +19,11 @@ A modern and responsive Admin Dashboard built using HTML, CSS Grid, and JavaScri
 
 -Mobile-friendly design
 
-#Contributing
+# Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-#Future Improvements
+# Future Improvements
 
 -Add charts using Chart.js or D3.js
 
